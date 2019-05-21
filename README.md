@@ -11,7 +11,7 @@
 #### >>python<br>
 #### >>import tensorflow<br>
 #### >>import keras<br></i>
-### 7. If installation is successful, close the terminal and launch jupyter notebook or any of the other python ide's from the environment where tensorflow and keras were downloaded.
+### 7. If installation is successful, close the terminal and go back to the home tab (anaconda navigator), select the new environment where tensorflow and keras were downloaded as the channel and launch jupyter notebook or any of the other python ide's.
 
 
 <br>
