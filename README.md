@@ -1,4 +1,4 @@
-# How to download Tensorflow and Keras for Anaconda in Windows
+# How to download Tensorflow and Keras for Anaconda (Windows 10)
 ### 1. Download Anaconda from https://www.anaconda.com/distribution/
 ### 2. Launch the Anaconda navigator and select the "Environments" tab
 ### 3.Select the 'Create'option, name the new environment and choose python package version greater than 3.5
